@@ -13,7 +13,7 @@ Overall it was not a difficult project. But it still requires work. Some things 
 - Ability to add custom actions buttons to the dialog window.
 - Default parameters for easy customization, including default dark theme, actions alignment, content alignment, and more.
 
-### Import UI_DialogWindow into your project.
+### Import DialogWindow into your project.
 
 
 ### main.py
