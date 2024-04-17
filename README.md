@@ -1,6 +1,8 @@
 # Custom-Flet-Dialog-Window
+![image](https://github.com/Whhhatttt/Custom-Flet-Dialog-Window/assets/40802556/262e0f4c-68d0-41ff-b403-ba96d1884d47)
 
 
+![image](https://github.com/Whhhatttt/Custom-Flet-Dialog-Window/assets/40802556/a6705c36-2224-4db6-89c3-cdabd93f1820)
 
 
 Overall it was not a difficult project. But it still requires work. Some things can be improved, some things can be optimized. Feel free to suggest your own edits or more convenient functionality.
@@ -98,8 +100,8 @@ title_alignment=ft.alignment.top_left,
 title_padding = 20,
 title_size = 25,
 
-bgcolor_dialog_dark = 'black,0.2',                                #color will be used if the theme is DARK
-bgcolor_dialog_light = 'white,0.8',                               #color will be used if the theme is LIGHT
+bgcolor_dialog_dark = 'black,0.2',                                #color of dialog window will be used if the theme is DARK
+bgcolor_dialog_light = 'white,0.8',                               #color of dialog window will be used if the theme is LIGHT
 
 blur_size = [5,5]                                                 #blur size x; y;
 ```
