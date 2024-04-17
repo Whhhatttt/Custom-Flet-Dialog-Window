@@ -19,7 +19,7 @@ Overall it was not a difficult project. But it still requires work. Some things 
 ### main.py
 ```
 import flet as ft
-from UI_DialogWindow import DialogWindow
+from DialogWindow import DialogWindow
 
 
 class main_app:
